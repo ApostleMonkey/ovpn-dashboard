@@ -98,7 +98,7 @@ $pageTitle = "openVPN Dashboard";
 
 						echo "<div class='col-lg-6'>";
 						if ($usercount > 0){}
-						$link="<a href='/admin/vpnusers/showusers'>View vpn peer list</a>";
+						$link="<a href='/admin/vpnusers/showusers.php'>View vpn peer list</a>";
 						echo "<pre style='margin-left: -4px;'><b><div class='pull-left'>Active connections: ".$usercount."<br>Total peer count: ".$clientcount."<br>".$link."</b></div></pre>";
 						echo "</div>";
 
@@ -110,7 +110,7 @@ $pageTitle = "openVPN Dashboard";
 
 <div class='col-lg-12'>
 						
-<pre><b><div class="pull-left"><a href='/admin/vpninfo/vpninfo'>View connections and routing table</a></div></b></pre>
+<pre><b><div class="pull-left"><a href='/admin/vpninfo/vpninfo.php'>View connections and routing table</a></div></b></pre>
 
 </div>						
 						
