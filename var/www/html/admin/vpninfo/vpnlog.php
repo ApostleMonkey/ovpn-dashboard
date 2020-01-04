@@ -12,7 +12,7 @@ header("Refresh: $sec; url=$page");
 
 <html>
 <head>
-<title>DSC ovpn ConnStatus</title>
+<title>Open VPN ConnStatus</title>
 <?php include '../header.php'; ?>
 
 </head>
