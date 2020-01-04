@@ -130,7 +130,7 @@ $pageTitle = "Open VPN Dashboard";
 				<span class="sr-only">actual load: <?=$load[0];?> percent</span>
 			  </div>
 			</div>
-			<div style="font-size: 13px; font-family: Menlo,Monaco,Consolas,Courier New,monospace;"><b><a href='/admin/sysinfo/procinfo'>View running processes</a></b></div>
+			<div style="font-size: 13px; font-family: Menlo,Monaco,Consolas,Courier New,monospace;"><b><a href='/admin/sysinfo/procinfo.php'>View running processes</a></b></div>
 	
 </div>
 </div>
@@ -147,7 +147,7 @@ $pageTitle = "Open VPN Dashboard";
 				<span class="sr-only">mem usage: <?=$memused;?> of <?=$mem;?> bytes</span>
 			  </div>
 			</div>
-			<div style="font-size: 13px; font-family: Menlo,Monaco,Consolas,Courier New,monospace;"><b><a href='/admin/sysinfo/meminfo'>View memory allocation</a></b></div>
+			<div style="font-size: 13px; font-family: Menlo,Monaco,Consolas,Courier New,monospace;"><b><a href='/admin/sysinfo/meminfo.php'>View memory allocation</a></b></div>
 			</div>
 			</div>
 			</td>
