@@ -1,6 +1,6 @@
 
 <?php 
-$pageTitle = "DSC ovpn configuration change";
+$pageTitle = "Open VPN configuration change";
 $proto = $_GET['proto'];
 $port = $_GET['port'];
 $subnet = $_GET['TransSubnet'];

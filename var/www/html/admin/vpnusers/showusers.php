@@ -13,7 +13,7 @@ $pageTitle = "Peer overview";
 
 <html>
 <head>
-<title>DSC ovpn showPeers</title>
+<title>Open VPN showPeers</title>
 <?php include '../header.php'; ?>
 
 </head>

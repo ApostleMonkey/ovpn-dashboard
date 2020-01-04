@@ -12,7 +12,7 @@ $pageTitle = "User removal (site2site)";
 
 <html>
 <head>
-<title>DSC ovpn removeRwUsr</title>
+<title>Open VPN removeRwUsr</title>
 <?php include '../header.php'; ?>
 
 </head>
@@ -32,7 +32,7 @@ $pageTitle = "User removal (site2site)";
 		<div class='well'>
 			<?php
 				$run = shell_exec('sudo /var/www/html/admin/vpnusers/removeuser_s2s.sh -c '.$clientname.' -s '.$subnet.' -m '.$netmask.' -o /var/www/html/download');
-				$result  = shell_exec('echo '.$run.' ｜ grep "DSC ovpn RemclientWizS2S done"');
+				$result  = shell_exec('echo '.$run.' ｜ grep "Open VPN RemclientWizS2S done"');
 				if ($result){
 					echo "Removed ".$clientname." successfully.<br><br><pre>".$result."</pre>";
 				}else{

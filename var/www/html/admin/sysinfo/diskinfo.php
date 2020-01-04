@@ -10,7 +10,7 @@ $pageTitle = "Disk usage";
 
 <html>
 <head>
-<title>DSC ovpn DiskUsage</title>
+<title>Open VPN DiskUsage</title>
 <?php include '../header.php'; ?>
 
 </head>

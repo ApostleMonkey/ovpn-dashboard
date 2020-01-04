@@ -10,7 +10,7 @@ $pageTitle = "Restore configuration from file";
 
 <html>
 <head>
-<title>DSC ovpn RestoreConf</title>
+<title>Open VPN RestoreConf</title>
 <?php include '../header.php'; ?>
 
 </head>

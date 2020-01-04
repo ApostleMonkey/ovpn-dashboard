@@ -13,7 +13,7 @@ $pageTitle = "Restart services";
 
 
 		<?php include '../header.php'; ?>
-  <title>DSC oVPN ResetSrv</title>
+  <title>Open VPN ResetSrv</title>
 </head>
 
 

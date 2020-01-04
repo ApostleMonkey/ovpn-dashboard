@@ -11,7 +11,7 @@ $pageTitle = "openVPN server configuration";
 
 <html>
 <head>
-<title>DSC ovpn ConnStatus</title>
+<title>Open VPN ConnStatus</title>
 <?php include '../header.php'; ?>
 </head>
 <body style='overflow: scroll !important;'>

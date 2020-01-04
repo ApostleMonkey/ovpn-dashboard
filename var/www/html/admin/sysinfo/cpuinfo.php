@@ -10,7 +10,7 @@ $pageTitle = "CPU info";
 
 <html>
 <head>
-<title>DSC ovpn CpuInfo</title>
+<title>Open VPN CpuInfo</title>
 <?php include '../header.php'; ?>
 
 </head>

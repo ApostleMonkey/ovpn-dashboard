@@ -9,7 +9,7 @@ $pageTitle = "openVPN Connection status";
 
 <html>
 <head>
-<title>DSC ovpn ConnStatus</title>
+<title>Open VPN ConnStatus</title>
 <?php include '../header.php'; ?>
 
 </head>

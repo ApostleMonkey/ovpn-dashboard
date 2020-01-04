@@ -15,7 +15,7 @@ $BitStatArr = explode(',', $rsArr[0]);
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <?php include '../header.php'; ?>
   
-  <title>DSC oVPN peerDetails</title>
+  <title>Open VPN peerDetails</title>
 
 
 <style>

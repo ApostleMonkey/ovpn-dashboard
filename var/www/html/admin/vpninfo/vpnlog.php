@@ -25,7 +25,8 @@ header("Refresh: $sec; url=$page");
 		<br>
 		<div class="panel panel-default">
 		  <div class="panel-body">
-			<br><p><a class="btn btn-primary btn-lg" href="javascript:history.go(-1)" role="button">back</a><tab><a class="btn btn-primary btn-lg" style="margin-left: 12px !IMPORTANT;" href="javascript:window.location.reload(true)" role="button">reload</a></p>
+			<br><p><a class="btn btn-primary btn-lg" href="javascript:history.go(-1)" role="button">back</a>
+			<tab><a class="btn btn-primary btn-lg" style="margin-left: 12px !IMPORTANT;" href="javascript:window.location.reload(true)" role="button">reload</a></p>
 
 <br>
 

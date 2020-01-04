@@ -1,5 +1,5 @@
 
-<?php $pageTitle = "DSC ovpn Service restart";
+<?php $pageTitle = "Open VPN Service restart";
 $result=shell_exec('sudo /var/www/html/admin/vpnconfig/restartovpn.sh');
 ?>
 
@@ -9,7 +9,7 @@ $result=shell_exec('sudo /var/www/html/admin/vpnconfig/restartovpn.sh');
 
 	<meta http-equiv="refresh" content="3;url=/admin/vpnconfig/servicerestartselect" />
 
-	<title>DSC ovpnRestart</title>
+	<title>Open VPNRestart</title>
 	<?php include '../header.php'; ?>
 
 </head>

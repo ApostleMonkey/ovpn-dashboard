@@ -11,7 +11,7 @@ $pageTitle = "Process overview";
 
 <html>
 <head>
-<title>DSC ovpn ProcInfo</title>
+<title>Open VPN ProcInfo</title>
 <?php include '../header.php'; ?>
 
 </head>

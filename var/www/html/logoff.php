@@ -10,7 +10,7 @@
 
 		<meta http-equiv="refresh" content="2;url=/" />
 
-		<title>DSC ovpn Dashboard</title>
+		<title>Open VPN Dashboard</title>
 		<?php include 'header.php'; ?>
 
 	</head>

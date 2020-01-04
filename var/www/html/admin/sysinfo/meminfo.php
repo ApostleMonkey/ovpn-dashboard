@@ -10,7 +10,7 @@ $pageTitle = "Memory usage";
 
 <html>
 <head>
-<title>DSC ovpn MemUsage</title>
+<title>Open VPN MemUsage</title>
 <?php include '../header.php'; ?>
 
 </head>

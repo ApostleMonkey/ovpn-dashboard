@@ -10,7 +10,7 @@ $pageTitle = "Certificate revocation";
 
 <html>
 <head>
-<title>DSC ovpn crt revocation</title>
+<title>Open VPN crt revocation</title>
 <?php include '../header.php'; ?>
 <script type="text/javascript" language="javascript">function ClearForm(){ document.myform.reset();}</script>
 

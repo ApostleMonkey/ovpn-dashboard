@@ -10,7 +10,7 @@ $pageTitle = "tun0 interface statistics";
 
 <html>
 <head>
-<title>DSC ovpn tun0 status</title>
+<title>Open VPN tun0 status</title>
 <?php include '../header.php'; ?>
 </head>
 <body style='overflow: scroll !important;'>

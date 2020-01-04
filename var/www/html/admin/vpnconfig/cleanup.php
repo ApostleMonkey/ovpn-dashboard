@@ -9,7 +9,7 @@ $result=shell_exec('rm /var/www/html/restore/*');
 
 	<meta http-equiv="refresh" content="3;url=/admin/vpnconfig/restoreconf" />
 
-	<title>DSC ovpn Dashboard</title>
+	<title>Open VPN Dashboard</title>
 	<?php include '../header.php'; ?>
 
 </head>

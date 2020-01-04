@@ -156,6 +156,6 @@ elif [[ $CLIENTTYPE = "rw1"  ||  $CLIENTTYPE = "rw2" ]]; then
 
 fi
 
-echo "DSC ovpn clientWiz done"
+echo "Open VPN clientWiz done"
 
 

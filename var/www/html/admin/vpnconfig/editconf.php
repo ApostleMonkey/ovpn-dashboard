@@ -16,7 +16,7 @@ $serverNetArr = explode(' ', $serverNet);
   <head>
 <?php include '../header.php'; ?>
   
-  <title>DSC oVPN ConfSrv</title>
+  <title>Open VPN ConfSrv</title>
 
 <style>
 .modal, .modal-open {

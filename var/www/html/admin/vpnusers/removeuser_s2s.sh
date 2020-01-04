@@ -77,5 +77,5 @@ rm -rf /etc/openvpn/ccd/$CLIENTNAME
 
 
 
-echo "DSC ovpn RemclientWizS2S done"
+echo "Open VPN RemclientWizS2S done"
 

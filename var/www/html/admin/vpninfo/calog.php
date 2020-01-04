@@ -10,7 +10,7 @@ $pageTitle = "openVPN server CA revocation list";
 
 <html>
 <head>
-<title>DSC ovpn CAlog</title>
+<title>Open VPN CAlog</title>
 <?php include '../header.php'; ?>
 
 </head>

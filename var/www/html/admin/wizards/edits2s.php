@@ -13,7 +13,7 @@ $pageTitle = "Edit s2s peer - finished";
 
 <html>
 <head>
-<title>DSC ovpn EditduserWiz</title>
+<title>Open VPN EditduserWiz</title>
 <?php include '../header.php'; ?>
 
 </head>

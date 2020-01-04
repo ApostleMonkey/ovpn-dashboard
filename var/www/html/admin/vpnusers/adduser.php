@@ -10,7 +10,7 @@ $pageTitle = "Add users";
 
 <html>
 <head>
-<title>DSC ovpn Adduser</title>
+<title>Open VPN Adduser</title>
 <?php include '../header.php'; ?>
 <script type="text/javascript" language="javascript">function ClearForm(){ document.myform.reset();}</script>
 

@@ -1,10 +1,10 @@
 
-<?php $pageTitle = "DSC openVPN Dashboard";
+<?php $pageTitle = "openVPN Dashboard";
 ?>
 
 <html>
 <head>
-<title>DSC ovpn Dashboard</title>
+<title>Open VPN Dashboard</title>
 <?php include './header.php'; ?>
 
 </head>

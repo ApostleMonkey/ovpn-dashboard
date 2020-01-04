@@ -11,7 +11,7 @@ $pageTitle = "Certificate revocation results";
 
 <html>
 <head>
-<title>DSC ovpn RevokeCert</title>
+<title>Open VPN RevokeCert</title>
 <?php include '../header.php'; ?>
 
 </head>

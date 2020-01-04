@@ -10,7 +10,7 @@ $pageTitle = "User creation wizard s2s template - step 1";
 
 <html>
 <head>
-<title>DSC ovpn AdduserWiz</title>
+<title>Open VPN AdduserWiz</title>
 <?php include '../header.php'; ?>
 <script type="text/javascript" language="javascript">function ClearForm(){ document.myform.reset();}</script>
 

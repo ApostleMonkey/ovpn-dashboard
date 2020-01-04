@@ -47,13 +47,13 @@ $memused = $mem - $memfree;
 $hostname = shell_exec('hostname');
 
 //echo "<pre>$output</pre>";
-$pageTitle = "openVPN Dashboard";
+$pageTitle = "Open VPN Dashboard";
 
 ?>
 
 <html>
 <head>
-<title>DSC ovpn Dashboard</title>
+<title>Open VPN Dashboard</title>
 <?php include './header.php'; ?>
 
 </head>

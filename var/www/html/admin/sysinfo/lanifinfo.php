@@ -10,7 +10,7 @@ $pageTitle = "eth0 interface statistics";
 
 <html>
 <head>
-<title>DSC ovpn LANstatus</title>
+<title>Open VPN LANstatus</title>
 <?php include '../header.php'; ?>
 </head>
 <body style='overflow: scroll !important;'>

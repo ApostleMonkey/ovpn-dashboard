@@ -59,5 +59,5 @@ rm -rf /etc/openvpn/ccd/$CLIENTNAME
 
 
 
-echo "DSC ovpn RemclientWizRW done"
+echo "Open VPN RemclientWizRW done"
 
