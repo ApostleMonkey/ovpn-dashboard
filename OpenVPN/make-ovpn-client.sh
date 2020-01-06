@@ -19,7 +19,7 @@ user nobody
 group nogroup
 persist-key
 persist-tun
-cipher AES-128-CBC
+cipher AES-256-CBC
 auth SHA256
 key-direction 1
 remote-cert-tls server
