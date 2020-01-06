@@ -1,6 +1,6 @@
 
 <?php
-$output = shell_exec("journalctl --identifier ovpn-server");
+$output = shell_exec("./showlog.sh");
 $hostname = shell_exec('hostname');
 $date = shell_exec('date "+%A %W %Y %X"');
 //echo "<pre>$output</pre>";
