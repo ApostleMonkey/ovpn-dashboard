@@ -1,7 +1,7 @@
 
 <?php
-$output = shell_exec('ps  -axo "uname,ppid,pid,etime,%cpu,%mem,args" | tail -n +2 | sort -rn -k 5');
-$header= shell_exec('ps  -axo uname,ppid,pid,etime,%cpu,%mem,args | sed -n 1p');
+$output = shell_exec('ps -axo "uname,ppid,pid,etime,%cpu,%mem,args" | tail -n +2 | sort -rn -k 5');
+$header= shell_exec('ps -axo uname,ppid,pid,etime,%cpu,%mem,args | sed -n 1p');
 $hostname = shell_exec('hostname');
 $date = shell_exec('date "+%A %W %Y %X"');
 //echo "<pre>$output</pre>";
