@@ -49,7 +49,7 @@
 					<li><a href="/admin/sysinfo/cpuinfo.php">CPU information</a></li>
 					<li><a href="/admin/sysinfo/procinfo.php">Process info</a></li>
 					
-					<li><a href="/admin/phpinfo">Show PHPinfo</a></li>
+					<li><a href="/admin/phpinfo.php">Show PHPinfo</a></li>
 
 				    <li role="separator" class="divider"></li>
 				    <li><a href="/admin/">Dashboard</a></li>
