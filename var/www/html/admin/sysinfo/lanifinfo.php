@@ -4,7 +4,7 @@ $ifinfo = shell_exec('ifconfig wlan0');
 $hostname = shell_exec('hostname');
 $date = shell_exec('date "+%A %W %Y %X"');
 //echo "<pre>$output</pre>";
-$pageTitle = "eth0 interface statistics";
+$pageTitle = "wlan0 interface statistics";
 
 ?>
 
