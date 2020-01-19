@@ -1,6 +1,6 @@
 
 <?php $pageTitle = "Open VPN Service restart";
-$result=shell_exec('sudo /var/www/html/admin/vpnconfig/restartovpn.sh');
+$result=shell_exec('sudo systemctl restart openvpn@server');
 ?>
 
 <html>

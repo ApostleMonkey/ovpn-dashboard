@@ -1,6 +1,6 @@
 
 <?php
-$output = shell_exec('free -l -o');
+$output = shell_exec('free -lth');
 $hostname = shell_exec('hostname');
 $date = shell_exec('date "+%A %W %Y %X"');
 //echo "<pre>$output</pre>";
