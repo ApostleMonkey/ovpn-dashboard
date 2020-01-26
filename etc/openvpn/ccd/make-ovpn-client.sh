@@ -5,7 +5,7 @@
 CLIENT_NAME=$1
 OPENVPN_SERVER="192.168.1.237"
 CA_DIR=/etc/openvpn/openvpn-ca
-CLIENT_DIR=/etc/openvpn/clients
+CLIENT_DIR=/etc/openvpn/ccd
  
 cd ${CA_DIR}
 source vars
