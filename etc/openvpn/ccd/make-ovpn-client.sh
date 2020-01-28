@@ -13,7 +13,7 @@ source vars
  
 echo "client
 dev tun
-proto udp
+proto udp4
 remote ${OPENVPN_SERVER} 53
 user nobody
 group nogroup
@@ -24,7 +24,7 @@ auth SHA256
 key-direction 1
 remote-cert-tls server
 comp-lzo
-verb 3" > ${CLIENT_DIR}/${CLIENT_NAME}.ovpn
+verb 4" > ${CLIENT_DIR}/${CLIENT_NAME}.ovpn
  
 cat <(echo -e '<ca>') \
     ${CA_DIR}/keys/ca.crt \
